@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">TimeCode_Calculator</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="time_code">Time Code Calculator</string>
     <string name="action_settings">Settings</string>
+    <string name="time_start">Start Time</string>
+    <string name="time_end">End Time</string>
+    <string name="plus_sign">+</string>
 
+    <string-array name="calculations_array">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
 </resources>
